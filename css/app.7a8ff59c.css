@@ -1,0 +1,1 @@
+#app{display:grid;border:thin solid grey}#add{grid-column-start:2;grid-column-end:3;justify-self:right}#app{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#2c3e50;margin-top:60px}
